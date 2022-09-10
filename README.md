@@ -1,2 +1,4 @@
-# cs386-a2.1
-Assignment 2.1 CS386
+# MyCarDriver 
+MyCarDriver drives the car for you
+
+## Installation 
