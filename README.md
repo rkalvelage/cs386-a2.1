@@ -8,6 +8,9 @@ Use the package manager [pip](https://pypi.org/project/pip/) to install MyCarDri
 
 ## Developers
 -**Naima**
+
 -Veronica
+
 -Rain
+
 -Regan
